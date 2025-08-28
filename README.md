@@ -1,4 +1,7 @@
-# Ollama Models Integration
+# Ollama-multimodal-integration-demo
+Integrating text and vision models using Ollama, supporting both text and image-based AI interactions.
+
+Models: gemma3:4b and llava:7b 
 
 ## How to use the model
 
